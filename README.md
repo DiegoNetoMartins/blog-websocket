@@ -41,7 +41,7 @@ Ou se preferir, realize o download do código fonte em formato .zip e extraia pa
 
 ![image](https://github.com/DiegoNetoMartins/blog-websocket/assets/82280204/fda1c61e-4ee4-4c2b-82f2-c4b94c7ff30c)
 
-
+Para este exemplo, o projeto "Blog.Api" obrigatoriamente deve iniciar com o perfil "https".
 Com isso, será aberto a documentação da API e o aplicativo console para simular 3 clientes conectados no blog que deverão receber as notificações em tempo real ao criar um novo post.
 
 ![image](https://github.com/DiegoNetoMartins/blog-websocket/assets/82280204/6c71e0f2-1370-41d0-a054-5c02804cd4ee)

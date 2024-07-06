@@ -56,6 +56,7 @@ Com isso, será aberto a documentação da API e o aplicativo console para simul
 ![image](https://github.com/DiegoNetoMartins/blog-websocket/assets/82280204/b6f0efaa-624b-45b4-b09a-cb69948d0382)
 - Agora copie o token de autenticação e insira na caia de texto de autorização do Swagger:
 ![image](https://github.com/DiegoNetoMartins/blog-websocket/assets/82280204/e14d5a19-8f0e-4e12-8e8b-3ddd5ee45f05)
+
 Pronto, agora podemos criar o post.
 ### Criando um novo post
 - Depois de estar autenticado, podemos criar um novo post de exemplo e validar se os usuários conectados no blog receberão a notificação do novo post criado em tempo real:
